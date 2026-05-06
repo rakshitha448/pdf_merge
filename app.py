@@ -1,5 +1,5 @@
 import streamlit as st
-from PyPDF2 import PdfMerger
+from PyPDF2 import PdfMerger 
 
 st.title("PDF Merger")
 
